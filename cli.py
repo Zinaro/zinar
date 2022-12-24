@@ -29,3 +29,4 @@ soup = BeautifulSoup(r.content, "lxml")
 st1 = soup.find_all("div", attrs = {"id":"bodyContent"})
 text = st1[0].text
 print(text)
+import pprint
