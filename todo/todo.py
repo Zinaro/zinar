@@ -15,11 +15,16 @@ class ToDo:
         """
         !ARMANC: komkirina 1.000.000 hevokên kurdî ye
         *1) pdf ên pirtûkên kurdî ên ku tên xwendin were dîtin
+            ? divê pdf ne pir kevn be
+            ? ku di çend tîpan de xeletî derxe bi dest bê sererastkirin
         *2) pdf ên kurdî were xwendin û ji hevokan de were qutkirin û mîna lîsteyekî bê qeydkirin
-        *3) ji beşa nûçeyan jî hevok bên komkirin ên ku ne bi kurdî bin bên wergerkirin
-        *4) hevokên ku dubare dikin wekî 1 hevok bê qeydkirin
-        *5) hevokên kurdî li cihekî bê qeydkirin
-        *6) 1 milyon hevok bê komkirin armanca vê beşê diqede
+        *3) pdf ên zimanên din jî bi wergerê bên kurdîkirin.
+            ? ji zimanên din pdf wekî armanca 2. ji hevokan de bê qutkirin.
+            ? hevokên zimanên din bi translate ê bên wergerkirin 
+        *4) ji beşa nûçeyan jî hevok bên komkirin ên ku ne bi kurdî bin bên wergerkirin
+        *5) hevokên ku dubare dikin wekî 1 hevok bê qeydkirin
+        *6) hevokên kurdî li cihekî bê qeydkirin
+        *7) 1 milyon hevok bê komkirin armanca vê beşê diqede
         """
         pass
     # TODO kurdgtca
