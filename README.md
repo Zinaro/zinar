@@ -1,3 +1,3 @@
-## Zinar
+# Zinar
 
-# Why?
+## Why?
