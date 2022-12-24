@@ -16,16 +16,16 @@ def get_domain(url):
 	return '{uri.scheme}://{uri.netloc}'.format(uri=urp.urlparse(url))
 print(get_domain(url))
 """
-import wikipedia
+
 from googletrans import Translator
 import requests
 from bs4 import BeautifulSoup
 trans = Translator()
 
-title= "Dark (dizi)"
-link = "https://tr.wikipedia.org/wiki/" + str(title.lower())
+title= "Twitter"
+link = "https://ku.wikipedia.org/wiki/" + str(title.lower())
 r = requests.get(link)
-soup = BeautifulSoup(r.content, "lxml")
+soup = BeautifulSoup(r.content, "html.parser")
 st1 = soup.find_all("div", attrs = {"id":"bodyContent"})
 text = st1[0].text
 print(text)
