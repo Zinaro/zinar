@@ -30,3 +30,11 @@ class ToDo:
         *2) sererastkirina kurdgtcayê
         """
         pass
+    # TODO mobileapp
+    def mobileapp()
+        """
+        !ARMANC: çêkirina mobile app ê
+        *1) mobile app bi flutter bê çêkirin
+        *2) van kodan li ser mobile app ê jî bê bikaranîn
+        *3) mobile app li ser play storê bê weşandin
+        """
