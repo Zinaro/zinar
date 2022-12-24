@@ -22,4 +22,11 @@ class ToDo:
         *6) 1 milyon hevok bê komkirin armanca vê beşê diqede
         """
         pass
-
+    # TODO kurdgtca
+    def kurdgtca():
+        """
+        !ARMANC: kurdgtca yê tevlî van kodan kirin
+        *1) kurdgtca yê wekî modulekî tevlî livir bê kirin
+        *2) sererastkirina kurdgtcayê
+        """
+        pass
