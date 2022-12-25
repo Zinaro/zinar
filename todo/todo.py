@@ -5,6 +5,17 @@ class ToDo:
         """
         !ARMANC: komkirina nûçeyan
         *1) listeya malperên nûçeyê bê amadekirin.
+            ? 1) https://www.rudaw.net/kurmanci
+            ? 2) https://www.bbc.com/
+            ? 3) https://www.nytimes.com/international/
+            ? 4) https://www.theguardian.com/international
+            ? 5) https://www.reuters.com/  --> eng
+            ? 6) https://www.afp.com/ --> fr
+            ? 7) https://www.dpa.com/en/ --> de
+            ? 8) https://www.euronews.com/
+            ? 9) https://www.cnet.com/news//
+            ? 10) https://www.technewsworld.com/
+            ? 11) https://indianexpress.com/ --> in
         *2) ji bo her malperekî fonksiyonên cuda bê xebitandin
         *3) malperên bi zimanê din bi google translate ê bê wergerkirin
         *4) Piştê komkirina nûçeya hemû nûçe bişîne Firebase ê
