@@ -6,6 +6,7 @@ class ToDo:
         !ARMANC: komkirina nûçeyan
         *1) listeya malperên nûçeyê bê amadekirin.
             ? 1) https://www.rudaw.net/kurmanci
+                * * https://www.rudaw.net/kurmanci/news
             ? 2) https://www.bbc.com/
             ? 3) https://www.nytimes.com/international/
             ? 4) https://www.theguardian.com/international
