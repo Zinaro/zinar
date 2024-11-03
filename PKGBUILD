@@ -4,7 +4,7 @@ pkgname='zinar'
 pkgver=1.0
 pkgrel=1
 
-pkgdesc="Modern bir Python GUI uygulaması."
+pkgdesc="A modern Python GUI application."
 url="https://github.com/Zinaro/zinar"
 
 arch=('any')

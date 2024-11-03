@@ -1,6 +1,5 @@
 pkg/
 src/
-*.tar.zst
 
 *.pyc
 *.pyo
