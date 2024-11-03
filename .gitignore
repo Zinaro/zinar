@@ -1,0 +1,9 @@
+pkg/
+src/
+*.tar.zst
+
+*.pyc
+*.pyo
+__pycache__/
+*.swp
+
